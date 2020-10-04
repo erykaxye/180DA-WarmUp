@@ -1,0 +1,27 @@
+What did you plan to do last week? 
+- Finish Lab 0
+- Write up or begin a final project proposal. 
+What did you end up doing last week? 
+- Finished Lab 0 and created a final project proposal. 
+- Lab 0: https://github.com/erykaxye/180DA-WarmUp
+- Project Proposal: https://docs.google.com/document/d/1ehSgHyCRfF69BGhbUZIo0-qWgvsugAkc138UEraWfJU/edit 
+What do you plan to do this week? 
+- Finish up project proposal. 
+- Hopefully get all the needed parts in the mail, though they are very delayed. 
+- Finish Lab 1. 
+
+
+Task 1: 
+I had already pre-installed git, so I have experience using it. I created a new repository for ECE180DA and used it to hold my code for Lab 0. 
+
+Task 2: 
+The Windows download of miniconda was a bit more difficult than the Linux version. The extra anaconda GUI is cumbersome, but I figured out how to activate the virtual environment within VSCode so I can do all my development in one place. 
+
+Task 3: 
+Running the script was pretty easy, but I realized that I couldn't use the command python3, but needed to use python instead. 
+
+Task 4: 
+1. I choose my black make-up bag to test the thresholding of HSV vs. RGB for the color black. It was hard to find a range of HSV values, so I just found reasonable RGB values and then converted to HSV. In addition, my webcam on my laptop is really bad quality. I found that RBG was much more lenient and could create a box surrounding my entire make-up bag, but HSV created many small boxes around the darkest part of my bag. 
+2. My room has natural light, so I tried turning on the lights. Turning on the lights did not change much for the RGB filter, but made the HSV filter much more lenient and it was able to minmize the number of boxes to about 2 that surrounded most of my bag.  
+3. Using the color picker on my phone, I displayed the black color. At low brightness, the accuracy was the same for RBG and HSV as they were both able to create a box around my phone screen, However, when I turned up the brightness, HSV became a lot worse and displayed many small boxes, while RBG still had one box surrounding my phone screen.  
+4. Both the make-up bag and the phone are pretty robust. The proportion of the dominant colors is the same, although a different shade because of the lighting changes. 
