@@ -1,0 +1,13 @@
+What did you plan to do last week? 
+- Get the required hardware and set it up 
+- Finish up Lab 1
+- Make some progress on the Project Proposal. 
+What did you end up doing last week? 
+- I got a different Raspberry Pi (3), but I was able to set up the ssh and finish the lab. Hopefully this doesn't cause any issues in the future, but the capabilties seem very similar to the Zero. 
+- The BerryIMU was shipped successfully. 
+- My team discussed the Project a bit more and made tentative distinctions in our roles for it. 
+- I finished Lab 1, my screenshot is attached with the python script output. All the steps worked for the most part, except I had to use a monitor to log into my Pi and connect to the internet through the monitor. SSH worked after that and git was pre-installed. 
+What do you plan to do this week? 
+- I plan to finish the Project Proposal and submit it. 
+- I plan to do the Lab next week with Berryconda. 
+- I plan to attend lecture. 
