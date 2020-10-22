@@ -1,0 +1,12 @@
+What did you plan to do last week? 
+- Attend lecture. 
+- Finish up Lab 2. 
+- Finish and turn in Project Proposal Draft. 
+What did you end up doing last week? 
+- I finally got the correct Raspberry Pi Zero in the mail (it took over 4 weeks to ship). 
+- My team discussed and turned in the Project Proposal with more a indepth schedule and defined roles. 
+- I finished Lab 2, but instead of connecting between my teammates laptops, I set my Raspberry Pi as the subscriber and my laptop as the publisher. The screenshot of the result is attached (mqtt.png) with the python script output.  
+What do you plan to do this week? 
+- I plan to configure the Raspberry Pi Zero. 
+- I plan to get started on my section of the Project and start researching different ways to utilize Open Pose. 
+- I plan to attend lecture. 
