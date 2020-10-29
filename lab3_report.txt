@@ -1,0 +1,14 @@
+What did you plan to do last week? 
+- Attend lecture. 
+- Finish up Lab 3. 
+- Start working on slides for Midterm Presentation. 
+What did you end up doing last week? 
+- I set up the Raspberry Pi Zero and soldered the I2C pins on my BerryIMU. 
+- I finished Lab 3, but my code classifies motions based on thresholds that I found, rather than learning the motion. 
+ - My results are attached in forward_tilt.png and upward_motion.png. 
+- I am looking into some Tensorflow tutorials for gesture recognition with the BerryIMU so that I can apply them to the project.  
+- I started the slides for Midterm Presentation. They just need a little refinement and updates on progress.  
+What do you plan to do this week? 
+- I plan to be able to use Tensorflow (or some type of classifier) to detect 2 motions (tap, wave). 
+- I plan to finish Lab 4.  
+- I plan to attend lecture. 
