@@ -1,0 +1,11 @@
+What did you plan to do last week? 
+- Attend lecture. 
+- Finish slides for Midterm Presentation and present. 
+- Use sklearns (or some type of classifier) to detect 2 motions (tap, wave). 
+What did you end up doing last week? 
+- Successfully trained my machine learning model with 50 samples of tap, wave, and negative (not moving). Wave classification is still a bit shaky, but adding more samples should help. 
+- Practiced and presented our Midterm Presentation successfully. 
+- Started on integrating my IMU code into a function that can be called. 
+What do you plan to do this week? 
+- I want to work on integrating the IMU code I have into a function that can be called and I want to start working with MQTT to send the data from the Raspberry Pi to my computer. 
+- I plan to attend lecture. 

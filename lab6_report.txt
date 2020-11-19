@@ -1,0 +1,10 @@
+What did you plan to do last week? 
+- Attend lecture. 
+- Integrate IMU code into a function that can be called. 
+- Start working with MQTT to send IMU classifications to my laptop. 
+What did you end up doing last week? 
+- I did not do as much as I planned due to midterms, but I did finish changing my IMU code so that it can be called as a function. This will make integration with other submodules easier. 
+What do you plan to do this week? 
+- Finish integrating my code so that it works with the other submodules. 
+- Finish basic framework for MQTT to send data. 
+- I plan to attend lecture. 
